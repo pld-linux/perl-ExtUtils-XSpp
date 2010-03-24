@@ -8,13 +8,13 @@
 Summary:	ExtUtils::XSpp - XS for C++
 Summary(pl.UTF-8):	ExtUtils::XSpp - XS dla C++
 Name:		perl-ExtUtils-XSpp
-Version:	0.05
+Version:	0.06
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/M/MB/MBARBON/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8a039891dbf2deeebe8940bc805e0660
+# Source0-md5:	775dcdb862de8a5cacdf6081b2ded3c8
 URL:		http://search.cpan.org/dist/ExtUtils-XSpp/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
