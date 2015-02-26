@@ -9,7 +9,7 @@ Summary:	ExtUtils::XSpp - XS for C++
 Summary(pl.UTF-8):	ExtUtils::XSpp - XS dla C++
 Name:		perl-ExtUtils-XSpp
 Version:	0.18
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
